@@ -14,7 +14,7 @@ Right click on folder and select `Get Info` or select folder and press `(CMD+I)`
 ## Brands
 |||||
 |---|---|---|---|
-|<img src="./png/github.png" style="width: 128px;" alt="GitHub">|
+|<img src="./png/github.png" style="width: 128px;" alt="GitHub">||||
 
 ## Frameworks
 |||||
