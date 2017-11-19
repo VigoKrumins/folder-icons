@@ -11,6 +11,9 @@ Project was made by inspiration from [@dhanishgajjar](https://github.com/dhanish
 
 Right click on folder and select `Get Info` or select folder and press `(CMD+I)`. Highlight the folder icon at top left corner of window by double-click then drag the `.icns` file to the highlighted icon.
 
+## Popular YouTubers
+<img src="./png/mkbhd.png" width="128px" alt="MKBHD"><img src="./png/unbox-therapy.png" width="128px" alt="Unbox Therapy"><img src="./png/linus.png" width="128px" alt="Linus Tech Tips">
+
 ## Brands
 <img src="./png/android.png" width="128px" alt="Android"><img src="./png/apple.png" width="128px" alt="Apple"><img src="./png/creative-cloud.png" width="128px" alt="Creative Cloud"><img src="./png/gopro-alt.png" width="128px" alt="GoPro Alternative"><img src="./png/gopro.png" width="128px" alt="GoPro"><img src="./png/instagram.png" width="128px" alt="Instagram"><img src="./png/linux.png" width="128px" alt="Linux"><img src="./png/github.png" width="128px" alt="GitHub"><img src="./png/windows.png" width="128px" alt="Windows"><img src="./png/youtube.png" width="128px" alt="YouTube">
 
