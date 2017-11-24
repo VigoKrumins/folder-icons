@@ -1,3 +1,4 @@
+<p align="center"><img src="./preview.png" width="256px" align="center"></p>
 <h1 align="center">Folder Icons</h1>
 
 ## About Folder Icons
