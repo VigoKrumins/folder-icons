@@ -1,4 +1,4 @@
-Custom macOS Folder Icons
+Folder Icons
 =========================================
 
 This project helps visually organize your workspace for easier usage. Simply replace folders icons to match the content inside of it (e.g If it's a folder containing GitHub repositories, replace it by GitHub folder icon, etc.).
