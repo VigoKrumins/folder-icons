@@ -1,9 +1,6 @@
-Folder Icons
-=========================================
+## About Folder Icons
 
-This project helps visually organize your workspace for easier usage. Simply replace folders icons to match the content inside of it (e.g If it's a folder containing GitHub repositories, replace it by GitHub folder icon, etc.).
-
-Project was made by inspiration from [@dhanishgajjar](https://github.com/dhanishgajjar) repository [vscode-icons](https://github.com/dhanishgajjar/vscode-icons).
+Folder Icons is a pack of custom icons for folders. We believe that organized people are more productive. Custom folder icons can help to be more organized by replacing simple folders with custom ones. It visually helps to find needed folder faster by focusing on the icon of the folder.
 
 ## Usage
 
@@ -38,6 +35,14 @@ Right click on folder and select `Get Info` or select folder and press `(CMD+I)`
 - Instagram: http://instagram.com/vigokrumins
 - WWW: http://vigokrumins.id.lv
 
+## Thanks to
+
+Special thanks to [@dhanishgajjar](https://github.com/dhanishgajjar) for inspiring by his [Visual Code Icons](https://github.com/dhanishgajjar/vscode-icons) project.
+
 ## Copyrights
 
 All brand icons are trademarks of their respective owners.
+
+## License
+
+The Folder Icons is open-sourced project licensed under the [MIT license](http://opensource.org/licenses/MIT)
