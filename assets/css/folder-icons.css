@@ -1,0 +1,216 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #fff;
+    color: #333c48;
+    font-family: "Source Sans Pro", sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    line-height: 1.5;
+    padding-top: 3.5rem;
+}
+
+.navbar-custom {
+    background-color: #fff;
+    border-top: 2px solid #3023AE;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-image: -webkit-gradient(linear, right bottom, left top, from(#C86DD7), to(#3023AE));
+    border-image: linear-gradient(to top left, #C86DD7, #3023AE);
+    border-image-slice: 1;
+    box-shadow: 0 1px 0 rgba(12, 13, 14, .15), 0 0 0 transparent, 0 0 0 transparent, 0 0 0 transparent;
+}
+
+.navbar-custom .navbar-brand {
+    background: -webkit-gradient(linear, right bottom, left top, from(#C86DD7), to(#3023AE));
+    background: linear-gradient(to top left, #C86DD7, #3023AE);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+}
+
+.jumbotron {
+    background-color: #3023ae;
+    background-image: linear-gradient(120deg, #3023ae, #c86dd7);
+    border-radius: 0;
+    color: #fff;
+    text-align: center;
+}
+
+.jumbotron .title {
+    font-size: 3.25rem;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    padding: 0;
+    margin: 0 0 .1rem 0;
+    text-transform: uppercase;
+}
+
+.jumbotron .description {
+    font-size: 1.25rem;
+    opacity: .7;
+    margin: 0 0 2rem 0;
+}
+
+.jumbotron .actions {
+    margin-bottom: 1rem;
+}
+
+.jumbotron .others {
+    color: rgba(255, 255, 255, .5);
+    font-size: .825rem;
+    margin: 1.5rem 0 0 0;
+    padding: 0;
+}
+
+.jumbotron a {
+    color: rgba(255, 255, 255, .7);
+    font-weight: 500;
+    transition: color .2s;
+}
+
+.jumbotron a:hover {
+    color: rgba(255, 255, 255, .9);
+    text-decoration: none;
+}
+
+@media screen and (min-width: 64rem) {
+    .jumbotron {
+        padding: 5rem 6rem;
+    }
+    .jumbotron .title {
+        font-size: 3.25rem;
+    }
+    .jumbotron .description {
+        font-size: 1.25rem;
+    }
+    .jumbotron .actions .btn {
+        padding: .75rem 1rem;
+    }
+}
+
+@media screen and (min-width: 42rem) and (max-width: 64rem) {
+    .jumbotron {
+        padding: 3rem 4rem;
+    }
+    .jumbotron .title {
+        font-size: 2.25rem;
+    }
+    .jumbotron .description {
+        font-size: 1.15rem;
+    }
+    .jumbotron .actions .btn {
+        font-size: .9rem;
+        padding: .6rem .9rem;
+    }
+}
+
+@media screen and (max-width: 42rem) {
+    .jumbotron {
+        padding: 2rem 1rem;
+    }
+    .jumbotron .title {
+        font-size: 2rem;
+    }
+    .jumbotron .description {
+        font-size: 1rem;
+    }
+    .jumbotron .actions .btn {
+        display: block;
+        font-size: .9rem;
+        padding: .75rem;
+        width: 100%;
+    }
+}
+
+.btn-action {
+    background-color: rgba(255, 255, 255, .08);
+    border-color: rgba(255, 255, 255, .2);
+    color: rgba(255, 255, 255, .7);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: .3rem;
+    transition: color .2, background-color .2s, border-color .2s;
+}
+
+.btn-action:hover {
+    background-color: rgba(255, 255, 255, .2);
+    border-color: rgba(255, 255, 255, .3);
+    color: rgba(255, 255, 255, .8);
+}
+
+.section {
+    color: #7f8fa4;
+    font-size: 1.1rem;
+    padding: 2rem 0;
+}
+
+.section .title {
+    color: #333c48;
+    font-size: 2.3rem;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    margin: 0 0 2rem 0;
+    text-transform: uppercase
+}
+
+.section.about p {
+    font-size: 1.3rem;
+}
+
+@media screen and (min-width: 64rem) {
+    .section .title {
+        font-size: 2.3rem;
+    }
+    .section.about p {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 42rem) and (max-width: 64rem) {
+    .section .title {
+        font-size: 2rem;
+    }
+    .section.about p {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 42rem) {
+    .section .title {
+        font-size: 1.6rem;
+    }
+    .section.about p {
+        font-size: 1rem;
+    }
+}
+
+.footer {
+    background-color: #fff;
+    border-top: 2px solid #3023AE;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-image: -webkit-gradient(linear, right bottom, left top, from(#C86DD7), to(#3023AE));
+    border-image: linear-gradient(to top left, #C86DD7, #3023AE);
+    border-image-slice: 1;
+    padding: 2rem;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+    padding: 0;
+}
+
+.footer i {
+    color: #f95359;
+    line-height: 1;
+    padding: .1rem;
+}
