@@ -1,0 +1,11 @@
+{
+    "name": "folder-icons",
+    "version": "1.0.0",
+    "description": "Custom folder icons",
+    "author": "Vigo Krumins",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vigokrumins/folder-icons/issues"
+    },
+    "homepage": "https://vigokrumins.github.com/folder-icons"
+}
