@@ -18,10 +18,10 @@ Right click on the application shortcut icon, select `Properties` from dropdown,
 
 |Icon Name|macOS|Windows|
 |---|---|---|
-|Apple|<img src="./macos/png/apple.png" width="128px" alt="Apple custom folder icon for macOS">|<img src="./windows/png/apple.png" width="128px" alt="Apple custom folder icon for Windows">
-|JavaScript|<img src="./macos/png/javascript.png" width="128px" alt="JavaScript custom folder icon for macOS">|<img src="./windows/png/javascript.png" width="128px" alt="JavaScript custom folder icon for Windows">
-|Sketch|<img src="./macos/png/sketch.png" width="128px" alt="Sketch custom folder icon for macOS">|<img src="./windows/png/sketch.png" width="128px" alt="Sketch custom folder icon for Windows">
-|RAW|<img src="./macos/png/raw.png" width="128px" alt="RAW custom folder icon for macOS">|<img src="./windows/png/raw.png" width="128px" alt="RAW custom folder icon for Windows">
+|Apple|<img src="./macOS/png/apple.png" width="128px" alt="Apple custom folder icon for macOS">|<img src="./windows/png/apple.png" width="128px" alt="Apple custom folder icon for Windows">
+|JavaScript|<img src="./macO/png/javascript.png" width="128px" alt="JavaScript custom folder icon for macOS">|<img src="./windows/png/javascript.png" width="128px" alt="JavaScript custom folder icon for Windows">
+|Sketch|<img src="./macOS/png/sketch.png" width="128px" alt="Sketch custom folder icon for macOS">|<img src="./windows/png/sketch.png" width="128px" alt="Sketch custom folder icon for Windows">
+|RAW|<img src="./macOS/png/raw.png" width="128px" alt="RAW custom folder icon for macOS">|<img src="./windows/png/raw.png" width="128px" alt="RAW custom folder icon for Windows">
 
 [Click here](https://vigokrumins.github.io/folder-icons) to view all folder icons.
 
